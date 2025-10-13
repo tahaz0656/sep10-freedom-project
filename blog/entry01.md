@@ -10,7 +10,7 @@ Some skills that I have learned from this blog are time management and how to go
 After the school day I go to manage for the girls volleyball team or I am in practice for the boys volleyball team and I usually get home very late and on the weekends I do boxing which takes up a lot of my weekend. This had created a problem because the schoolwork and homeworks are increasing by the day and it is very hard to manage so much homeworks while I get home very late. So, I've learned to manage my time better by doing some of my homework in lunch and not spending so much time playing games when I get home and instead take a mini break and start focusing on completing all of my work.
 #### How to Google
 When I had googled all the topics I was intrested in to find the perfect topic for me, I had gotten a lot of useless information and bad sites that had fake information. So from this I had learned to skim through stuff better and find good reliable sources that provided me the important information that I had needed.
-##Next steps
+## Next steps
 I am excited to start researching for possible solutions on how technology can help produce something that will stop electrical surges from happening.
 
 
