@@ -24,6 +24,22 @@ Topic: **Electrical Engineering**
     * Such as meters to miles and Pascals to Psi
     * Easy to read text with an intelligent, customizable display system.
     * This tool is essential for hanndling complex calculations and avoiding mistakes
+  # Hardware/Devices
+  * Google search: "CyberKnife"
+  * The website I looked into was: "https://cyberknife.com/cyberknife-how-it-works/"
+     * This device/system is a non-invasive treatment for cancerous and non-cancerous tumors and other conditions where radiation therapy is indicated.
+     * This device/system is used for treating conditions throughout the body, including the prostate, lung, brain, spine, head and neck, liver, pancreas and kidney.
+     * This can also be used as an alternative to surgery or for patients who have inoperable or surgically complex tumors.
+     * This CyberKnife treatment is typically performed in 1-5 sessions.
+     * The CyberKnife System is the only radiation delivery system that features a linear accelerator (linac).
+     * This is directly set on a robot to deliver the high-energy x-rays or photons used in radiation therapy.
+     * The robot moves and bends around the patient, to deliver radiation doses from potentially thousands of unique beam angles.
+     * This significantly expands the possible positions to concentrate radiations to the tumor.
+     * It also does so while minimizing dose to surrounding healthy tissue.
+     * This robotic delivery and real-time image guidance have set the standard for delivery precision.
+     * It has also enabled stereotactic radiosurgery (SRS) and stereotactic body radiation therapy (SBRT) treatments for the full range of tumor types.
+     * The advanced motion synchronization technology eliminates the need to use uncomfortable patient restraints, or ask patients to hold their breath for example.
+     * The CyberKnife System has more than two decades of clinical proof and has helped thousands of cancer patients.
     
     
 
