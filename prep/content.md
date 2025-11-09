@@ -38,7 +38,8 @@ Topic: **Electrical Engineering**
      * The advanced motion synchronization technology eliminates the need to use uncomfortable patient restraints, or ask patients to hold their breath for example.
      * The CyberKnife System has more than two decades of clinical proof and has helped thousands of cancer patients.
 ## EDP (Engineering Design Process)
- I am currently on the researching the problem (step 2) and finding possible solutions (step 3) for my EDP (Engineering Design Process).
+ I am currently on the researching the problem (step 2) and finding possible solutions (step 3) steps for my EDP (Engineering Design Process). My main goal right now is too find ways that electrical engineering can furthermore help solve problems in society. Problems like littering, starvation, renewable energy, and lack of biomedical systems. My next stage is too find possible solutions on how electrical engineering can solve a lot of these problems.
+## Skills
     
 
       
