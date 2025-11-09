@@ -1,11 +1,8 @@
 # Content
 Topic: **Electrical Engineering**
 
-## Overview/Introduction/Context
-* Text
-* Text
-
 ## Part A: existing technology
+# Software
 * 1st Google search: "Electrical Engineering technology apps"
 * 1st website looked into: "https://interestingengineering.com/lists/13-engineering-apps-that-are-a-must-for-all-engineers"
   * After reading and observing this website, I had seen it had ranked the 13th best engineering apps and also what these apps are used for.
@@ -40,7 +37,8 @@ Topic: **Electrical Engineering**
      * It has also enabled stereotactic radiosurgery (SRS) and stereotactic body radiation therapy (SBRT) treatments for the full range of tumor types.
      * The advanced motion synchronization technology eliminates the need to use uncomfortable patient restraints, or ask patients to hold their breath for example.
      * The CyberKnife System has more than two decades of clinical proof and has helped thousands of cancer patients.
-    
+## EDP (Engineering Design Process)
+ I am currently on the researching the problem (step 2) and finding possible solutions (step 3) for my EDP (Engineering Design Process).
     
 
       
