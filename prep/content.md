@@ -1,6 +1,12 @@
 # Content
 Topic: **Electrical Engineering**
-
+## Intro/Context/Overview:
+Electrical Engineering is the study and use of electricity, electronics, systems, and components. Electrical Engineers apply principles of mathematics and physics to create new technologies that impact a number of industries and it is used also used to solve problems.
+Some key aspects of electrical engineering is:
+  * Problem-solving
+  * Testing and analysis
+  * Project management
+  * Design and Development
 ## Part A: existing technology
 # Software
 * 1st Google search: "Electrical Engineering technology apps"
