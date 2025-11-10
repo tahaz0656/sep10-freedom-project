@@ -40,10 +40,8 @@ Topic: **Electrical Engineering**
 ## EDP (Engineering Design Process)
  I am currently on the researching the problem (step 2) and finding possible solutions (step 3) steps for my EDP (Engineering Design Process). My main goal right now is too find ways that electrical engineering can furthermore help solve problems in society. Problems like littering, starvation, renewable energy, and lack of biomedical systems. My next stage is too find possible solutions on how electrical engineering can solve a lot of these problems.
 ## Skills
-    
-
-      
-
-## Part B: possible future technology
-* Idea
-  * Detail
+Some skills that I've learned from working on this blog would **communication** and **time management**
+#### Communication
+During the time Mr. Mueller gave us during his class to work on this blog, I had talked to Ethan Li on how we were going to work together since he is doing "mechanical engineering" and I'm doing "electrical engineering". We talked to Mr. Mueller about and he made us research what kind of technology includes both mechanical and electrical enngineering, we found a system called the "Cyberknife" that both electrical and mechanical engineers work on and had used that system to base our research of. This type of commincation had helped me a lot on my blog because it gave me like an idea of what I was going to research and write about.
+#### Time management
+After the school day I go to manage for the girls volleyball team or I am in practice for the boys volleyball team and I usually get home very late and on the weekends I do boxing which takes up a lot of my weekend. This had created a problem because the schoolwork and homeworks are increasing by the day and it is very hard to manage so much homeworks while I get home very late. So, I've learned to manage my time better by doing some of my homework in lunch and not spending so much time playing games when I get home and instead take a mini break and start focusing on completing all of my homework.
