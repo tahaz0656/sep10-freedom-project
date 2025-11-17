@@ -1,12 +1,11 @@
 # Content
 Topic: **Electrical Engineering**
-## Intro/Context/Overview:
-Electrical Engineering is the study and use of electricity, electronics, systems, and components. Electrical Engineers apply principles of mathematics and physics to create new technologies that impact a number of industries and it is used also used to solve problems.
-Some key aspects of electrical engineering is:
-  * Problem-solving
-  * Testing and analysis
-  * Project management
-  * Design and Development
+# Categories 
+## Newest to oldest
+* The most recent existing technology that was created in which I had researched about would be the app called "Droid Tesla". Droid tesla was first released in August 2015 and hs been getting updated thorughout the most recent years.
+* The second most recent existing technology that was created in which I had researched about would be the software of "Engineering unit convertor & calculator". Early versions of this software appeared during the early 2000s but this was only for personal computers.
+* The oldest recent existing technology that was created in which I had researched about would the hardware of "CyberKnife". CyberKnife was first created in 1994 and it also when it was first ever used in clinical treatment at Standford University.
+
 ## Part A: existing technology
 # Software
 * 1st Google search: "Electrical Engineering technology apps"
@@ -43,11 +42,3 @@ Some key aspects of electrical engineering is:
      * It has also enabled stereotactic radiosurgery (SRS) and stereotactic body radiation therapy (SBRT) treatments for the full range of tumor types.
      * The advanced motion synchronization technology eliminates the need to use uncomfortable patient restraints, or ask patients to hold their breath for example.
      * The CyberKnife System has more than two decades of clinical proof and has helped thousands of cancer patients.
-## EDP (Engineering Design Process)
- I am currently on the researching the problem (step 2) and finding possible solutions (step 3) steps for my EDP (Engineering Design Process). My main goal right now is too find ways that electrical engineering can furthermore help solve problems in society. Problems like littering, starvation, renewable energy, and lack of biomedical systems. My next stage is too find possible solutions on how electrical engineering can solve a lot of these problems.
-## Skills
-Some skills that I've learned from working on this blog would **communication** and **time management**
-#### Communication
-During the time Mr. Mueller gave us during his class to work on this blog, I had talked to Ethan Li on how we were going to work together since he is doing "mechanical engineering" and I'm doing "electrical engineering". We talked to Mr. Mueller about and he made us research what kind of technology includes both mechanical and electrical enngineering, we found a system called the "Cyberknife" that both electrical and mechanical engineers work on and had used that system to base our research of. This type of commincation had helped me a lot on my blog because it gave me like an idea of what I was going to research and write about.
-#### Time management
-After the school day I go to manage for the girls volleyball team or I am in practice for the boys volleyball team and I usually get home very late and on the weekends I do boxing which takes up a lot of my weekend. This had created a problem because the schoolwork and homeworks are increasing by the day and it is very hard to manage so much homeworks while I get home very late. So, I've learned to manage my time better by doing some of my homework in lunch and not spending so much time playing games when I get home and instead take a mini break and start focusing on completing all of my homework.
