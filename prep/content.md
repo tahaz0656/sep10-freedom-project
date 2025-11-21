@@ -3,7 +3,7 @@ Topic: **Electrical Engineering**
 
 ## Existing Technology in Electrical Engineering
   * [Droid Tesla](https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/)
-  * ![](https://i.imgur.com/droidlogo.png)
+  * ![](droidlogo.png)
     * This app is the only electronic circuit simulator for android.
     * This app solves basic circuits using Kirchoff's Current law (KCL)
     * This simulator forms a matrix according to KCL
