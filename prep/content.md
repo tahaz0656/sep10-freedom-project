@@ -1,34 +1,21 @@
 # Content
 Topic: **Electrical Engineering**
-# Categories 
-## Newest to oldest
-* The most recent existing technology that was created in which I had researched about would be the app called "Droid Tesla". Droid tesla was first released in August 2015 and hs been getting updated thorughout the most recent years.
-* The second most recent existing technology that was created in which I had researched about would be the software of "Engineering unit convertor & calculator". Early versions of this software appeared during the early 2000s but this was only for personal computers.
-* The oldest recent existing technology that was created in which I had researched about would the hardware of "CyberKnife". CyberKnife was first created in 1994 and it also when it was first ever used in clinical treatment at Standford University.
 
-## Part A: existing technology
+## Existing Technology in Electrical Engineering
 # Software
-* 1st Google search: "Electrical Engineering technology apps"
-* 1st website looked into: "https://interestingengineering.com/lists/13-engineering-apps-that-are-a-must-for-all-engineers"
-  * After reading and observing this website, I had seen it had ranked the 13th best engineering apps and also what these apps are used for.
-  * I made a conclusion that a good app that I can research on would be "Droid Tesla"
-  * First app review I looked at was "Droid Tesla"
-    * "https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/"
+  * [Droid Tesla]("https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/")
     * This app is the only electronic circuit simulator for android.
     * This app solves basic circuits using Kirchoff's Current law (KCL)
     * This simulator forms a matrix according to KCL
     * Then starts to solve for the unknown quantities using algebraic technologies.
     * This app is also free
     * This app is also suitable for all types of being like students, hobbyists, and professionals.
-  * Second app review I looked at was "Engineering Unit Convertor & Calculator"
-    * "https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/"
+  *  [Engineering Unit Convertor & Calculator]("https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/")
     * This app is a tool that converts measurments between different units.
     * Such as meters to miles and Pascals to Psi
     * Easy to read text with an intelligent, customizable display system.
     * This tool is essential for hanndling complex calculations and avoiding mistakes
-  # Hardware/Devices
-  * Google search: "CyberKnife"
-  * The website I looked into was: "https://cyberknife.com/cyberknife-how-it-works/"
+  * [CyberKnife]("https://cyberknife.com/cyberknife-how-it-works/")
      * This device/system is a non-invasive treatment for cancerous and non-cancerous tumors and other conditions where radiation therapy is indicated.
      * This device/system is used for treating conditions throughout the body, including the prostate, lung, brain, spine, head and neck, liver, pancreas and kidney.
      * This can also be used as an alternative to surgery or for patients who have inoperable or surgically complex tumors.
@@ -42,3 +29,14 @@ Topic: **Electrical Engineering**
      * It has also enabled stereotactic radiosurgery (SRS) and stereotactic body radiation therapy (SBRT) treatments for the full range of tumor types.
      * The advanced motion synchronization technology eliminates the need to use uncomfortable patient restraints, or ask patients to hold their breath for example.
      * The CyberKnife System has more than two decades of clinical proof and has helped thousands of cancer patients.
+  ## Future Possible Inovaations in Electrical Engineering
+* Creation of robots that collect garbage:
+  * Collected garbage from trash cans
+  *Collects litter which is garbage that was littered on the streets.
+  *This will help decrease the pollution in many areas around the world.
+
+* System that warns electioneers of surges:
+  * Predicts when a surge is going to happen
+  * Try's warning them as best as possible by making loud signals
+  * Try's to prevent the surges from happening overall 
+  
