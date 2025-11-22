@@ -3,7 +3,7 @@ Topic: **Electrical Engineering**
 
 ## Existing Technology in Electrical Engineering
   * [Droid Tesla](https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/)
-  * ![](droidlogo.png)
+    ![](droidlogo.png)
     * This app is the only electronic circuit simulator for android.
     * This app solves basic circuits using Kirchoff's Current law (KCL)
     * This simulator forms a matrix according to KCL
@@ -11,12 +11,13 @@ Topic: **Electrical Engineering**
     * This app is also free
     * This app is also suitable for all types of being like students, hobbyists, and professionals.
   *  [Engineering Unit Convertor & Calculator](https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/)
-  *  ![](
+     ![](droidtesla.png)
     * This app is a tool that converts measurments between different units.
     * Such as meters to miles and Pascals to Psi
     * Easy to read text with an intelligent, customizable display system.
     * This tool is essential for hanndling complex calculations and avoiding mistakes
   * [CyberKnife](https://cyberknife.com/cyberknife-how-it-works/)
+    ![](cyberknife.png)
      * This device/system is a non-invasive treatment for cancerous and non-cancerous tumors and other conditions where radiation therapy is indicated.
      * This device/system is used for treating conditions throughout the body, including the prostate, lung, brain, spine, head and neck, liver, pancreas and kidney.
      * This can also be used as an alternative to surgery or for patients who have inoperable or surgically complex tumors.
