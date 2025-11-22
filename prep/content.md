@@ -34,11 +34,25 @@ The topic I have choosen for this project is Electrial Enginneering this was due
   ## Future Possible Inovaations in Electrical Engineering
 * Creation of robots that collect garbage:
   * Collected garbage from trash cans
-  * Collects litter which is garbage that was littered on the streets.
-  * This will help decrease the pollution in many areas around the world.
+  * Collects litter which is garbage that was littered on the streets
+  * This will help decrease the pollution in many areas around the world
+  * Robots can most likely also be used to sort recyclables with higher accuracy than humans, meaning there would be an increase in recycling rates
+  * Reduce the spread of diseases
 
 * System that warns electioneers of surges:
   * Predicts when a surge is going to happen
   * Try's warning them as best as possible by making loud signals
-  * Try's to prevent the surges from happening overall 
+  * Try's to prevent the surges from happening overall
+  * Prevnets injury and death
+  * Provides data analysis to possibility predict future surges
+    
+* Creation of robots that transport materials required for construction
+   * Making work life much easier in construction
+   * Having the robots be able to go across or climb houses and many types of buildings
+   * increasing efffeciency
+   * improving safety
+   * possibiliy lowering costs
+   * Navigate Job sites
+   * Collect data
+   * Helping construction managers deliver projects on time
   
