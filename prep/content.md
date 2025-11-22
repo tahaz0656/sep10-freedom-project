@@ -1,6 +1,6 @@
 # Content
-Topic: **Electrical Engineering**
-
+## Topic: **Electrical Engineering**
+The topic I have choosen for this project is Electrial Enginneering this was due to the fact that I would like to become a electrical enginneer when I grow up. I also chose this topic because I knew that technology was massively involved in electrical engineering due that fact that they design, develop, and test electrical systems. Seeing all the different ways artifical intelligence can improve Electrical Enginneeing has inspired to also come up with new ways that technology can help advance Electrical Engineering.
 ## Existing Technology in Electrical Engineering
   * [Droid Tesla](https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/)
     ![](droidlogo.png)
