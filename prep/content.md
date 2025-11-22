@@ -11,6 +11,7 @@ Topic: **Electrical Engineering**
     * This app is also free
     * This app is also suitable for all types of being like students, hobbyists, and professionals.
   *  [Engineering Unit Convertor & Calculator](https://www.solopointsolutions.com/2017/11/14/must-have-apps-for-electrical-engineers/)
+  *  ![](
     * This app is a tool that converts measurments between different units.
     * Such as meters to miles and Pascals to Psi
     * Easy to read text with an intelligent, customizable display system.
