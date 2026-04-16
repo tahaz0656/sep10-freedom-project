@@ -26,3 +26,12 @@
 -->
 ### 3/30/26
 
+
+
+### 4/15/26
+Building a robot that picks up garbage automatically
+* Day 1 :
+I will focus on building the frame, I will use a large and flat <a-box> as the main platform to hold all the components. Then attach 4 cylinder (<a-cylinder>) shapes and then rotate them to face outwards like tires for example. Move the wheels to corners and then position them.
+* Day 2 :
+Place a tall (a-box) on the back half of the chassis ( which I learned was like a skateborad deck of the robot, it's job is basically like holding wheels at the bottom and like the garbage bin ). Put 2 small <a-sphere> shapes on the front because it could help make it look like a fake person.
+* Day 3 : Build the main arm using a long thin <a-box> poniting forwards from the chassis. Add claws to the arms <a-box> pieces and try to angle to make it look like grippers to pick up garbage and then the coloring.
