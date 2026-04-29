@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+         <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
         <!-- Required meta tags -->
          <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -40,8 +41,46 @@
     </div>
 
     <div class="image-a">Image A</div>
+    <div class= "aframe-box">
+    <a-scene embedded style="width: 400px; height: 300px; margin:auto;">
+        <a-box position="0 0.5 0" width="2" height="0.2" depth="3" color="#606060"></a-box>
+<!-- Right Back Wheel -->
+<a-cylinder position="1 0.5 1" radius="0.4" height="0.1" rotation="0 0 90" color="black"></a-cylinder>
+<!-- Left Back Wheel -->
+ <a-cylinder position="-1 0.5 1" radius="0.4" height="0.1" rotation="0 0 90" color="black"></a-cylinder>
+ <!-- Right Front Wheel -->
+  <a-cylinder position="1 0.5 -1" radius="0.4" height="0.1" rotation="0 0 90" color="black"></a-cylinder>
+  <!-- Left Front Wheel -->
+   <a-cylinder position="-1 0.5 -1" radius="0.4" height="0.1" rotation="0 0 90" color="black"></a-cylinder>
+   <!-- DAY 2-->
+<!-- The outer part of the bin -->
+<a-box position="0 1 -0.4" width="1.8" height="1.6" depth="1.4" color="#FFC65D"></a-box>
+<!-- The "inside" of the bin (hollow look) -->
+<a-box position="0 1.85 -0.4" width="1.6" height="0.1" depth="1.2" color="#222"></a-box>
+
+<!-- DAY 2:EYES -->
+<!-- Left Eye -->
+<a-sphere position="-0.5 1.1 0.5" radius="0.15" color="white"></a-sphere>
+<a-sphere position="-0.5 1.1 0.65" radius="0.06" color="red"></a-sphere>
+<!-- Right Eye -->
+<a-sphere position="0.3 1.1 0.5" radius="0.15" color="white"></a-sphere>
+<a-sphere position="0.3 1.1 0.65" radius="0.06" color="red"></a-sphere>
+<!-- DAY 3: COLLECTION ARM -->
+
+  <!-- The long arm -->
+  <a-box position="0 0.6 1.6" width="0.3" height="0.15" depth="1.2" color="yellow" ></a-box>
+
+  <!-- The hand (gripper) -->
+  <a-box position="0 0.5 2.3" width="0.9" height="0.15" depth="0.3" color="black"></a-box>
+
+
+      <a-sky color="white"></a-sky>
+      <a-camera position="0 2 6"></a-camera>
+    </a-scene>
+</div>
 
     <div class="image-b"> Cool ELectrical Engineering Image</div>
+
 
     <div class="part-b">
         <h3>Part B</h3>
