@@ -5,7 +5,7 @@
 
         .container-grid {
             display: grid;
-            grid-template-columns: 2fr 3fr 2fr;
+            grid-template-columns: 33.33% 33.3% 33.3%;
             grid-template-rows: auto auto;
             gap: 20px;
         }
@@ -35,6 +35,10 @@
             align-items: center;
             border: 1px dashed #aaa;
         }
+        .droid-telsa-image {
+            width: 100%;
+            height: auto;
+        }
 
         .image-b {
             grid-column: 1 / 2;
@@ -63,6 +67,5 @@
              justify-content: center;
 
         }
-
 
 
