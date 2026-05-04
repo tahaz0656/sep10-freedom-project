@@ -24,6 +24,21 @@
         <title>Title</title>
     </head>
     <body>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"> ELECTRICAL ENGINEERING</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
         <!-- HTML -->
 <div class="container-grid">
     <div class="context">
@@ -42,7 +57,10 @@
 
     <div class="image-a">Image A</div>
     <div class= "aframe-box">
-    <a-scene embedded style="width: 400px; height: 300px; margin:auto;">
+      <div class="container mt-4">
+  <div class="row justify-content-center">
+    <div class="col-auto">
+    <a-scene embedded style="width: 400px; height: 300px; container text-center;">
         <a-box position="0 0.5 0" width="2" height="0.2" depth="3" color="#606060"></a-box>
 <!-- Right Back Wheel -->
 <a-cylinder position="1 0.5 1" radius="0.4" height="0.1" rotation="0 0 90" color="black"></a-cylinder>
@@ -77,6 +95,9 @@
       <a-sky color="white"></a-sky>
       <a-camera position="0 2 6"></a-camera>
     </a-scene>
+    </div>
+    </div>
+    </div>
 </div>
 
     <div class="image-b"> Cool ELectrical Engineering Image</div>
