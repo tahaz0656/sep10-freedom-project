@@ -25,7 +25,9 @@
             border: 1px solid #ccc;
         }
 
-        .image-a {
+        .droid-telsa-image {
+            width: 100%;
+            height: auto;
             grid-column: 3 / 4;
             grid-row: 1 / 2;
             background-color: #e0e0e0;
@@ -34,10 +36,6 @@
             justify-content: center;
             align-items: center;
             border: 1px dashed #aaa;
-        }
-        .droid-telsa-image {
-            width: 100%;
-            height: auto;
         }
 
         .image-b {
@@ -49,6 +47,7 @@
             justify-content: center;
             align-items: center;
             border: 1px dashed #aaa;
+            object-fit: cover;
         }
 
         .part-b {
